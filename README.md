@@ -62,7 +62,20 @@ scalable, responsive, and user-friendly web applications.
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vayunvema/vayunverma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vayunverma/vayunverma/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vayunverma/vayunverma/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/vayunverma/vayunverma/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </div>
 
 ## 💡 Core Skills
