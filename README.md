@@ -61,6 +61,9 @@ scalable, responsive, and user-friendly web applications.
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vayunvema/vayunverma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ## 💡 Core Skills
 
