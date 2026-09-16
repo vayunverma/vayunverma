@@ -6,7 +6,7 @@ I am a Full Stack Java Developer with a strong foundation in Java, Spring Boot, 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vayun Verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermavayun03@gmail.com) 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vayunverma/vayunverma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vayunverma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
